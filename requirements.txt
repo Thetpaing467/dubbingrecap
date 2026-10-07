@@ -1,0 +1,7 @@
+streamlit
+ffmpeg-python
+opencv-python-headless
+numpy
+edge-tts
+Pillow
+faster-whisper
